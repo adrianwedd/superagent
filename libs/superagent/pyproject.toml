@@ -59,7 +59,7 @@ langfuse = "^2.6.3"
 vecs = "^0.4.2"
 agentops = {extras = ["langchain"], version = "^0.0.20"}
 langsmith = "^0.0.83"
-langchain = "^0.1.4"
+langchain = "^0.1.5"
 langchain-openai = "^0.0.5"
 
 
